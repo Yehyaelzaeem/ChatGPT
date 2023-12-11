@@ -29,13 +29,12 @@ class CustomBaseTopItemWidget extends StatelessWidget {
       InkWell(
         onTap: isChat==true?null:onTap,
         child: SizedBox(
-          height:height?? 52.h,
+          height:height?? 60.h,
           width:width?? 335.w,
           child:  Padding(
             padding:  EdgeInsets.only(left:  isChat==true?20.w:0,right:  isChat==true?20.w:0),
             child:
             Column(
-              mainAxisSize: MainAxisSize.max,
               children: [
                 Row(
                   children: [
