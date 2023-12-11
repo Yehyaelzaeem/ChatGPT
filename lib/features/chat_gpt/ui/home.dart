@@ -14,15 +14,17 @@ class Home extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     var cubit =ChatGptCubit.get(context);
+    final isDarkMode = Theme.of(context).brightness;
+
     return  Scaffold(
       backgroundColor: Theme.of(context).scaffoldBackgroundColor,
       appBar: AppBar(
           toolbarHeight: 0.0,
           systemOverlayStyle:  SystemUiOverlayStyle(
-            statusBarColor: Theme.of(context).hintColor,
-            statusBarIconBrightness: Brightness.dark,
-            systemNavigationBarIconBrightness:Brightness.dark,
-            systemNavigationBarColor:Theme.of(context).hintColor,
+            statusBarColor: Theme.of(context).scaffoldBackgroundColor,
+            statusBarIconBrightness: isDarkMode ==Brightness.dark?Brightness.light:Brightness.dark,
+            systemNavigationBarIconBrightness:isDarkMode ==Brightness.dark?Brightness.light:Brightness.dark,
+            systemNavigationBarColor:Theme.of(context).scaffoldBackgroundColor,
           ),
           elevation: 0.0
       ),
