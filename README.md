@@ -1,16 +1,8 @@
-# chatgpt
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_2023-12-12-00-03-43-872_com example chatgpt](https://github.com/Yehyaelzaeem/ChatGPT/assets/100237058/b4faedee-342c-4790-968b-9ac25ac310cf)
+![Screenshot_2023-12-12-00-03-53-350_com example chatgpt](https://github.com/Yehyaelzaeem/ChatGPT/assets/100237058/c63bc349-762f-4bf1-afa6-176b8cbe3f27)
+![Screenshot_2023-12-12-00-03-50-017_com example chatgpt](https://github.com/Yehyaelzaeem/ChatGPT/assets/100237058/611f86aa-b5d9-45c1-82ea-98568b0eb16a)
+![Screenshot_2023-12-12-00-04-36-626_com example chatgpt](https://github.com/Yehyaelzaeem/ChatGPT/assets/100237058/bb956828-d86d-4cec-9d19-892400ee70b2)
+![Screenshot_2023-12-12-00-05-38-803_com example chatgpt](https://github.com/Yehyaelzaeem/ChatGPT/assets/100237058/26b14b5d-026c-4e23-9d78-caf5819e8206)
+![Screenshot_2023-12-12-00-05-55-938_com example chatgpt](https://github.com/Yehyaelzaeem/ChatGPT/assets/100237058/9d3de09c-a198-4006-b2fb-37d1d60752ca)
+![Screenshot_2023-12-12-00-04-49-606_com example chatgpt](https://github.com/Yehyaelzaeem/ChatGPT/assets/100237058/bd8faad3-d09a-4391-95ed-87bebe01c051)
+![_storage_emulated_0_DCIM_Screenshots_Screenshot_2023-12-12-00-05-30-270_com example chatgpt](https://github.com/Yehyaelzaeem/ChatGPT/assets/100237058/5f4ec4af-12eb-4873-837b-4c47ac9bf561)
